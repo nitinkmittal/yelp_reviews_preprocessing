@@ -1,0 +1,198 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:43245'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:33069'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:34012'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:41900'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:33519'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:44141'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:44964'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:36389'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:41133'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.13:43831'
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-iwyd8v1z', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-22p2cvdx', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-kf287kfr', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-pmzjh1x5', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-lg_kt0b7', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-f_aq9ol4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-2jqha9vq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-yybh_h7l', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-_pva6bb7', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-9_xy7jzf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-nvpchqfd', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-9xmgq3fj', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-q4i4qq7h', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-42zzsrfz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-g4q1s5yx', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-oivy8g_p', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-yhsuk_iv', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-vg3ohn3p', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-85hs96mg', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-rsr1r31a', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-uyy7lomh', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-33brxxfh', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-jv91y240', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-xs1firdx', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-5jc5sf6p', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-vj20hcqu', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-2iytf33b', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-6e3_nb3g', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-v43av3lf', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-w72py55e', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-owb0vscd', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-t8lkn3uz', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-2t_xzf5q', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-bauvwq47', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-t0qfl1on', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-pdggs2aa', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-f_r04x3t', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-q9fmneas', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-thwz2vhk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-7x99npm7', purging
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:43226
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:43226
+distributed.worker - INFO -          dashboard at:         10.99.101.13:44856
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-rfyax1k6
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:46530
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:46530
+distributed.worker - INFO -          dashboard at:         10.99.101.13:41618
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-el70uugt
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:45115
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:45115
+distributed.worker - INFO -          dashboard at:         10.99.101.13:36878
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-ma33a8ay
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:41720
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:41720
+distributed.worker - INFO -          dashboard at:         10.99.101.13:43899
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-kqa7cs6o
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:40471
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:40471
+distributed.worker - INFO -          dashboard at:         10.99.101.13:33078
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-r7zypz57
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:34744
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:34744
+distributed.worker - INFO -          dashboard at:         10.99.101.13:42515
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-sw76lei3
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:36992
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:36992
+distributed.worker - INFO -          dashboard at:         10.99.101.13:33974
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-b3od6nt5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:34020
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:34020
+distributed.worker - INFO -          dashboard at:         10.99.101.13:34486
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-fdm6za3v
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:33374
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:33374
+distributed.worker - INFO -          dashboard at:         10.99.101.13:34441
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-qts3mvvl
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.13:40083
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.13:40083
+distributed.worker - INFO -          dashboard at:         10.99.101.13:44747
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-l1acxsmn
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:38957
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 19.69s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.08s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.10s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.24s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.35s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.38s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.41s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.50s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - WARNING - full garbage collections took 21% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 24% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 24% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 25% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 25% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 26% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 26% CPU time recently (threshold: 10%)
+distributed.core - INFO - Event loop was unresponsive in Worker for 19.07s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 4.98s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 20% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 19% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 19% CPU time recently (threshold: 10%)
+slurmstepd: error: *** JOB 18183811 ON d0013 CANCELLED AT 2021-04-08T13:29:14 ***

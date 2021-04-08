@@ -1,0 +1,140 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:33195'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:43227'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:34041'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:38842'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:44408'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:33145'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:33416'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:46608'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:43872'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.60:37308'
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-6krpati6', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-3305ybhy', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-uy3znchk', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-yrzqqasd', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-9vpb5n2c', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-vaacexxq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-eiwvhk_k', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-m_vtkgs4', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-pvv_i85v', purging
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:44819
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:44819
+distributed.worker - INFO -          dashboard at:         10.99.101.60:44817
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-2c86hckp
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:37241
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:37241
+distributed.worker - INFO -          dashboard at:         10.99.101.60:43153
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:46517
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:46517
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-_sxd3uef
+distributed.worker - INFO -          dashboard at:         10.99.101.60:39841
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:37569
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-c0sykb10
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:44696
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:37569
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         10.99.101.60:38342
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:44696
+distributed.worker - INFO -          dashboard at:         10.99.101.60:36417
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-vw3vtsv3
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-28wqu044
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:35326
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:35326
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:36706
+distributed.worker - INFO -          dashboard at:         10.99.101.60:45212
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:36706
+distributed.worker - INFO -          dashboard at:         10.99.101.60:45275
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-qso__13t
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-l7jbhmqo
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:41708
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:41708
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:39846
+distributed.worker - INFO -          dashboard at:         10.99.101.60:42413
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:39846
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO -          dashboard at:         10.99.101.60:41393
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-uq39_lrz
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-pyyzo4aq
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.60:41967
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.60:41967
+distributed.worker - INFO -          dashboard at:         10.99.101.60:44470
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                   9.31 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-lx13rkh7
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:41059
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 18182561 ON d0060 CANCELLED AT 2021-04-08T11:51:37 ***

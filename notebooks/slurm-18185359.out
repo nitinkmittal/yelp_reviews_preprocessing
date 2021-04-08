@@ -1,0 +1,140 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:35419'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:38677'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:33101'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:46084'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:39331'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:35406'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:42266'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:42757'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.99.101.70:33900'
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:35616
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:35616
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:33464
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:38448
+distributed.worker - INFO -          dashboard at:         10.99.101.70:45357
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:33464
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:38448
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:41246
+distributed.worker - INFO -          dashboard at:         10.99.101.70:43703
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         10.99.101.70:33963
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:41246
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         10.99.101.70:33504
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:36849
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-pt_8oc4y
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:36849
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-i_9zlf8h
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-ojgu00ot
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         10.99.101.70:36175
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-6xi2_cbo
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-au4utu9a
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:38936
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:38936
+distributed.worker - INFO -          dashboard at:         10.99.101.70:35683
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-slwa066e
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:41151
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:41151
+distributed.worker - INFO -          dashboard at:         10.99.101.70:35379
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-li8iigqg
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:37068
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:37068
+distributed.worker - INFO -          dashboard at:         10.99.101.70:40593
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-565krmyf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://10.99.101.70:42230
+distributed.worker - INFO -          Listening to:   tcp://10.99.101.70:42230
+distributed.worker - INFO -          dashboard at:         10.99.101.70:32821
+distributed.worker - INFO - Waiting to connect to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          5
+distributed.worker - INFO -                Memory:                  10.35 GiB
+distributed.worker - INFO -       Local Directory: /home/mittal.nit/projects/yelp_reviews_preprocessing/notebooks/dask-worker-space/worker-6h9_n30s
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.99.101.32:46106
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.91s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 10.89s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - WARNING - full garbage collections took 32% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 42% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 43% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 43% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 43% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 45% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 45% CPU time recently (threshold: 10%)
+distributed.core - INFO - Event loop was unresponsive in Worker for 9.48s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.utils_perf - WARNING - full garbage collections took 38% CPU time recently (threshold: 10%)
+distributed.core - INFO - Event loop was unresponsive in Worker for 10.89s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+slurmstepd: error: *** JOB 18185359 ON d0070 CANCELLED AT 2021-04-08T14:54:58 DUE TO TIME LIMIT ***
